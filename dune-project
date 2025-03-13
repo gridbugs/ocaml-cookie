@@ -50,6 +50,7 @@
       (ocaml (>= 4.07.0))
       (session-cookie (= :version))
       async
+      result
       (alcotest :with-test)
       (junit :with-test)
       (junit_alcotest :with-test)
@@ -64,6 +65,7 @@
       (ocaml (>= 4.07.0))
       (session-cookie (= :version))
       lwt
+      result
       (alcotest :with-test)
       (junit :with-test)
       (junit_alcotest :with-test)
